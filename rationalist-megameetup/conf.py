@@ -140,6 +140,7 @@ NAVIGATION_LINKS = {
         ("/#register", "Registration"),
         ("/index-2017", "2017 Information"),
         ("/plan-2017", "2017 Master Plan"),
+        ("/galleries/2017/", "Event Pictures"),
     ),
 }
 
